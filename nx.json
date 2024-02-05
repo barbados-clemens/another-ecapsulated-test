@@ -1,4 +1,5 @@
 {
+  "bust": 1,
   "tasksRunnerOptions": {
     "default": {
       "runner": "@nrwl/nx-cloud",
